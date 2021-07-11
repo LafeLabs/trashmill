@@ -1,3 +1,5 @@
+## [scrolls/trashmill.md](scrolls/trashmill.md)
+
 # Trash Mill
 
 Trash Mill is the beginning of a new industrial civilization built only from trash and the Sun.
@@ -12,9 +14,28 @@ The elements that make up the textile factory are a slicer which turns bottles i
 
 Target power for the whole system is between 1 and 20 kW.  If we assume an efficiency of on the order of 25%, this means we need between 4 and 100 square meters, or between a 2 m X 2 m array and a 10 x 10 array.  Individual heliostats are built from Trash Robot elements, the same as the trash printer.  
 
-Steam heat exchangers 
+The end product is clothes with a *negative* water footprint, which produce clean distilled water as a byproduct of production, as well as *negative* carbon footprint, by taking waste away from landfills as well as use away from consumer factories.  If we build enough clothes for all humans, the consumer factories will all cease to exist.  All our fashion is body-specific.  Bodies of many people can be anonymously scanned into 3d files and used as models for fashion design in Blender made from triangles, which are then printed out as UV maps and cut and sewn with panels of cardboard or plastic trash as needed for function, fashion, and insulation.  All body types and styles can be arbitrarily designed for, with no difference in cost for how rare or common a design is.  Printing on plastic trash with Geometron printers can be used to create complex symbolic social media printed in and on all products, imparting complex information to people as we walk around wearing the clothes. 
 
-[scrolls/trashmill.md](scrolls/trashmill.md)
+## Major Elements of Trash Mill:
+
+ - steam engine build from salvaged gas engine(aim for 1 kW *output*)
+ - pumps scavenged from car parts driven by direct drive(water pump, vacuum pump)
+ - steam boiler built from trash
+ - solar heat absorber built from trash
+ - Steam heat exchanger system with plastic molding and extrusion, welding irons
+ - steam condenser and water collector and clean water tank
+ - sewing machine built from trash
+ - heliostats built from trash to build out into large array
+ - power transfer system(shafts, pulleys, belts, clutch mechanisms)
+ - plastic bottle(PETE bodies) slicer/extruder to make filament
+ - thread spinner to create plastic thread
+ - loom to weave thread into cloth
+ - 3d body scanner
+ - fashion designer who can work in Blender with scanned body models and is familiar with using UV maps to export triangle grids for fabrication, create fully rendered images of what product will look like on body, and 3d printed models, and who can create high quality fashion for all body types and knows our processes and materials
+ - a waste stream of cloth to be cut up and stitched into new clothes
+ - a waste stream of cardboard to be used for thermal insulation and structure for clothes and accessories
+ - a waste stream of plastic bottles, with bodies of bottles turning into thread for cloth and lids turning into printed media using the Geometron printer technology
+
 
 [set magic](set.html)
 
