@@ -18,14 +18,15 @@ The end product is clothes with a *negative* water footprint, which produce clea
 
 ## Major Elements of Trash Mill:
 
- - steam engine build from salvaged gas engine(aim for 1 kW *output*)
- - pumps scavenged from car parts driven by direct drive(water pump, vacuum pump)
+ - heliostats built from trash to build out into large array, target is 8" on a side square and we will want a couple hundred. these are crowd sourced, and run on an electrical generator
+ - solar heat absorber built from trash, safe support tower for the system
  - steam boiler built from trash
- - solar heat absorber built from trash
+ - steam engine built from salvaged gas engine(aim for 1 kW *output*, so a few kW input)
+ - pumps scavenged from car parts driven by direct drive(water pump, vacuum pump)
+ - tower structure for steam engine and absorber
  - Steam heat exchanger system with plastic molding and extrusion, welding irons
  - steam condenser and water collector and clean water tank
  - sewing machine built from trash
- - heliostats built from trash to build out into large array
  - power transfer system(shafts, pulleys, belts, clutch mechanisms)
  - plastic bottle(PETE bodies) slicer/extruder to make filament
  - thread spinner to create plastic thread
@@ -35,6 +36,8 @@ The end product is clothes with a *negative* water footprint, which produce clea
  - a waste stream of cloth to be cut up and stitched into new clothes
  - a waste stream of cardboard to be used for thermal insulation and structure for clothes and accessories
  - a waste stream of plastic bottles, with bodies of bottles turning into thread for cloth and lids turning into printed media using the Geometron printer technology
+ - site: plenty of dirty water, area for reflectors, safe place for absorber, work shop with built in HVAC to make it comfortable, all the tools and machines needed
+ - Geometron self-replicating documentation to replicate the whole system
 
 
 [set magic](set.html)
