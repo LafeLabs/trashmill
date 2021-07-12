@@ -1,5 +1,13 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/LafeLabs/trashmill/main/scrolls/calculations.md",
+        "name": "scrolls/calculations.md"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LafeLabs/trashmill/main/scrolls/stepperdriver.md",
+        "name": "scrolls/stepperdriver.md"
+    },
+    {
         "url": "https://raw.githubusercontent.com/LafeLabs/trashmill/main/scrolls/trashmill.md",
         "name": "scrolls/trashmill.md"
     }

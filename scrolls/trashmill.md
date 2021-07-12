@@ -2,6 +2,11 @@
 
 # Trash Mill
 
+[scrolls/calculations.md](scrolls/calculations.md)
+
+[scrolls/stepperdriver.md](scrolls/stepperdriver.md)
+
+
 Trash Mill is the beginning of a new industrial civilization built only from trash and the Sun.
 
 We begin by producing clothes, accessories and jewelry from a mixed waste stream of discarded cloth scrap, cardboard, and plastic bottles.  All things we make advertise this new way of existing, which will self-replicate as demand stimulates free replication.
@@ -45,3 +50,5 @@ The end product is clothes with a *negative* water footprint, which produce clea
 [copy from scrolls/trashmill.md to README.md](copy.php?from=scrolls/trashmill.md&to=README.md)
 
 [copy from scrolls/trashmill.md to scrolls/home](copy.php?from=scrolls/trashmill.md&to=scrolls/home)
+
+[editor.php](editor.php)
