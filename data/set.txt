@@ -1,5 +1,9 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/LafeLabs/trashmill/main/scrolls/home",
+        "name": "scrolls/home"
+    },
+    {
         "url": "https://raw.githubusercontent.com/LafeLabs/trashmill/main/data/set.txt",
         "name": "data/set.txt"
     },

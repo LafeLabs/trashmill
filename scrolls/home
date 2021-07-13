@@ -2,6 +2,10 @@
 
 # Trash Mill
 
+[setserver.html](setserver.html)
+
+[set magic](set.html)
+
 [scrolls/calculations.md](scrolls/calculations.md)
 
 [scrolls/stepperdriver.md](scrolls/stepperdriver.md)
@@ -43,6 +47,8 @@ The end product is clothes with a *negative* water footprint, which produce clea
  - site: plenty of dirty water, area for reflectors, safe place for absorber, work shop with built in HVAC to make it comfortable, all the tools and machines needed
  - Geometron self-replicating documentation to replicate the whole system
 
+
+[editor.php](editor.php)
 
 [set magic](set.html)
 

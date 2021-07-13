@@ -1,5 +1,7 @@
 ## [scrolls/trashmill.md](scrolls/trashmill.md)
 
+[![](iconsymbols/map.svg)](maps/home)
+
 # Trash Mill
 
 [scrolls/calculations.md](scrolls/calculations.md)

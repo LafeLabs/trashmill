@@ -1,0 +1,12 @@
+{
+    "server": "https://raw.githubusercontent.com/LafeLabs/trashmill/main/",
+    "set": [
+        "php/setserverreplicator.txt",
+        "setserver.html",
+        "maps/home",
+        "scrolls/home",
+        "data/setserver.txt",
+        "scrolls/calculations.md",
+        "scrolls/stepperdriver.md"
+    ]
+}
